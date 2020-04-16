@@ -7,6 +7,6 @@
 _Run in shell:_
 
 ```bash
-wget --no-check-certificate https://raw.githubusercontent.com/wjy20030407/nmsl/master/install.sh && bash install.sh
+wget --no-check-certificate https://raw.githubusercontent.com/Nolovenodie/nmsl/master/install.sh && bash install.sh
 ```
 
